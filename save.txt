@@ -1,0 +1,25 @@
+#[0]
+    word is [ARE] : file count is 1 : file/s: File is  file_2.txt   word count  is   1
+
+#[7]
+    word is [Hi] : file count is 2 : file/s: File is  file_1.txt   word count  is   3
+file_2.txt   word count  is   1
+
+#[7]
+    word is [HELLO] : file count is 1 : file/s: File is  file_1.txt   word count  is   1
+
+#[7]
+    word is [HOW] : file count is 1 : file/s: File is  file_2.txt   word count  is   1
+
+#[7]
+    word is [HI] : file count is 1 : file/s: File is  file_2.txt   word count  is   1
+
+#[8]
+    word is [Im] : file count is 1 : file/s: File is  file_3.txt   word count  is   1
+
+#[10]
+    word is [Krishna] : file count is 1 : file/s: File is  file_3.txt   word count  is   1
+
+#[24]
+    word is [YOU] : file count is 1 : file/s: File is  file_2.txt   word count  is   1
+
